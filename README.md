@@ -4,6 +4,7 @@ Conduct a comprehensive sales analysis to identify trends, optimize product offe
 
 #### Tools Used: 
 Power BI
+![Coffee Shop Sales Analysis](https://github.com/VihoshiniSaravanan/Coffee_Shop_Sales_Analysis/assets/173756615/02cc365d-df9b-4d18-a486-d8da0303e1a2)
 
 #### Actions Taken:
 
